@@ -1,0 +1,3 @@
+i need to find a way to display the contents of the database to the DOM.
+i need to write a function to loop through the columns of data in the database
+can be either with php or an sql function.
