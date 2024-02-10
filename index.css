@@ -72,6 +72,12 @@ body{
     border: 1px solid #06369d;
     border-radius: 5px;
 }
+#name{
+    text-align: center;
+    margin: auto;
+    padding-bottom: -45%;
+
+}
 #qn{
     margin-right: 7px;
 }

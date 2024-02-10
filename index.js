@@ -24,6 +24,9 @@ nextBtn.addEventListener("click", function () {
    stateNumber++;
    quesNumber.textContent = stateNumber;
    questionCounter.textContent = stateNumber;
+   if(stateNumber === 5) {
+    stateNumber = 5;
+   }
 })
 
 prevBtn.addEventListener("click", function (){
